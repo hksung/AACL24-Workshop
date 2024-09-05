@@ -1,8 +1,8 @@
-# Lexicogrammatical features annotation
+### Lexicogrammatical features annotation
 
-- Building annotation guidelines: `here`
-- Text files to annotate can be found in `Files` in each feature.
-
+- Build annotation guidelines: `here`
+- Raw text files for annotation are located in the `Text sample` section of each feature.
+- Example sentences are source from Biber et al. (2007), *Longman Grammar of Spoken and Written English (6th ed.)*.
 -------------
 
 ## 1. Finite dependent clauses
@@ -24,7 +24,7 @@
 	- *I suggested <ins>that she **sit** down on the chair and wait.</ins>*
 	- Please add more example sentences.
 	
-- Files:
+- Text sample:
 
 --------
 
@@ -43,19 +43,19 @@
 	- *The conclusion <ins>that global temperatures are **rising** faster than previously estimated</ins> is alarming.*
 	- Please add more example sentences.
 	
-- Files:
+- Text sample:
 
 ---------
 
-## Non-finite dependent clauses
+## 2. Non-finite dependent clauses
 
 - **Groups 3, 4, 5 and 6** add descriptions here as necessary.
 
-### clause constituent: adverbial
+### 2-1. clause constituent: adverbial
 
 - **Groups 3 and 4** add descriptions here as necessary.
 
-#### *ing*-clause as adverbial (Group 3, 4)
+#### 2-1-1. *ing*-clause as adverbial (Group 3, 4)
 
 - Descriptions: **Group 3** works on this
 
@@ -66,13 +66,13 @@
 	- *<ins>**Running** along the beach</ins>, she found a rare shell.*
 	- Please add more example sentences.
 	   
-- Text files to annotate: (need to be added)
+- Text sample:
 
-### noun phrase constituent: modifier
+### 2-2. noun phrase constituent: modifier
 
 - **Groups 3 and 4** add descriptions here as necessary.
 
-#### noun + *ing*-relative clause (Group 4, 3)
+#### 2-2-1. noun + *ing*-relative clause (Group 4, 3)
 
 - Descriptions: **Group 4** works on this
 
@@ -83,13 +83,13 @@
 	- *The woman <ins>**standing** in the corner</ins> is my sister.*
 	- Please add more example sentences.
 
-- Files:
+- Text sample:
 
-### clause constituent: verb complement
+### 2-3. clause constituent: verb complement
 
 - **Groups 5 and 6** add descriptions here as necessary.
 
-#### verb + *to*-complement clause (Group 5, 6)
+#### 2-3-1. verb + *to*-complement clause (Group 5, 6)
 
 - Descriptions: **Group 5** works on this
 
@@ -100,13 +100,13 @@
 	- *He upset you very much, and I hate <ins>to **see** that</ins>.*
 	- Please add more example sentences.
 	
-- Files:
+- Text sample:
 
-### phrase constituent: adjective complement
+### 2-4. phrase constituent: adjective complement
 
 - **Groups 5 and 6** add descriptions here as necessary.
 
-#### adjective + *to*-complement clause (Group 6, 5)
+#### 2-4-1. adjective + *to*-complement clause (Group 6, 5)
 
 - Descriptions: **Group 6** works on this
 
@@ -117,4 +117,4 @@
 	- *They were excited <ins>to **explore** the new city</ins>, having heard so much about its vibrant culture.*
 	- Please add more example sentences.
 	
-- Files:
+- Text sample:
