@@ -2,8 +2,9 @@
 
 - Build annotation guidelines: `here`
 - Raw text files for annotation are located in the `Text sample` section of each feature.
-- Example sentences are source from Biber et al. (2007), *Longman Grammar of Spoken and Written English (6th ed.)*.
--------------
+- Example sentences are source from Biber et al. (2007), *Longman Grammar of Spoken and Written English (6th ed.)*. 
+
+----
 
 ## 1. Finite dependent clauses
 
@@ -26,7 +27,7 @@
 	
 - Text sample:
 
---------
+----
 
 ### 1-2. noun phrase constituent: complement
 
@@ -45,7 +46,7 @@
 	
 - Text sample:
 
----------
+----
 
 ## 2. Non-finite dependent clauses
 
@@ -68,6 +69,8 @@
 	   
 - Text sample:
 
+----
+
 ### 2-2. noun phrase constituent: modifier
 
 - **Groups 3 and 4** add descriptions here as necessary.
@@ -84,6 +87,8 @@
 	- Please add more example sentences.
 
 - Text sample:
+
+----
 
 ### 2-3. clause constituent: verb complement
 
@@ -102,6 +107,8 @@
 	
 - Text sample:
 
+----
+
 ### 2-4. phrase constituent: adjective complement
 
 - **Groups 5 and 6** add descriptions here as necessary.
@@ -118,3 +125,4 @@
 	- Please add more example sentences.
 	
 - Text sample:
+
