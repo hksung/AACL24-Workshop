@@ -8,13 +8,13 @@
 
 ## 1. Finite dependent clauses
 
-- **Groups 1 and 2** add descriptions here as necessary.
+- **Groups 1 and 2** add descriptions as necessary.
 
 ### 1-1. clause constituent: verb complement
 
-- **Groups 1 and 2** add descriptions here as necessary.
+- **Groups 1 and 2** add descriptions as necessary.
 
-#### 1-1-1. verb + *that*-complement clause (Group 1, 2)
+#### 1-1-1. verb + *that*-complement clause (Group 1)
 
 - Descriptions: **Group 1** works on this
 
@@ -31,9 +31,9 @@
 
 ### 1-2. noun phrase constituent: complement
 
-- **Groups 1 and 2** add descriptions here as necessary.
+- **Groups 1 and 2** add descriptions as necessary.
 
-#### 1-2-1. noun + *that*-complement clause (Group 2, 1)
+#### 1-2-1. noun + *that*-complement clause (Group 2)
 
 - Description: **Group 2** works on this
 
@@ -50,13 +50,13 @@
 
 ## 2. Non-finite dependent clauses
 
-- **Groups 3, 4, 5 and 6** add descriptions here as necessary.
+- **Groups 3, 4, 5 and 6** add descriptions as necessary.
 
 ### 2-1. clause constituent: adverbial
 
-- **Groups 3 and 4** add descriptions here as necessary.
+- **Groups 3 and 4** add descriptions as necessary.
 
-#### 2-1-1. *ing*-clause as adverbial (Group 3, 4)
+#### 2-1-1. *ing*-clause as adverbial (Group 3)
 
 - Descriptions: **Group 3** works on this
 
@@ -73,9 +73,9 @@
 
 ### 2-2. noun phrase constituent: modifier
 
-- **Groups 3 and 4** add descriptions here as necessary.
+- **Groups 3 and 4** add descriptions as necessary.
 
-#### 2-2-1. noun + *ing*-relative clause (Group 4, 3)
+#### 2-2-1. noun + *ing*-relative clause (Group 4)
 
 - Descriptions: **Group 4** works on this
 
@@ -92,9 +92,9 @@
 
 ### 2-3. clause constituent: verb complement
 
-- **Groups 5 and 6** add descriptions here as necessary.
+- **Groups 5 and 6** add descriptions as necessary.
 
-#### 2-3-1. verb + *to*-complement clause (Group 5, 6)
+#### 2-3-1. verb + *to*-complement clause (Group 5)
 
 - Descriptions: **Group 5** works on this
 
@@ -111,9 +111,9 @@
 
 ### 2-4. phrase constituent: adjective complement
 
-- **Groups 5 and 6** add descriptions here as necessary.
+- **Groups 5 and 6** add descriptions as necessary.
 
-#### 2-4-1. adjective + *to*-complement clause (Group 6, 5)
+#### 2-4-1. adjective + *to*-complement clause (Group 6)
 
 - Descriptions: **Group 6** works on this
 
