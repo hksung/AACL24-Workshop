@@ -25,7 +25,7 @@
 	- *I suggested <ins>that she **sit** down on the chair and wait.</ins>*
 	- Please add more example sentences.
 	
-- Text sample:
+- Text sample: <a href="Sample/feature1_raw.txt" download>Download</a>
 
 ----
 
@@ -44,7 +44,7 @@
 	- *The conclusion <ins>that global temperatures are **rising** faster than previously estimated</ins> is alarming.*
 	- Please add more example sentences.
 	
-- Text sample:
+- Text sample: <a href="Sample/feature2_raw.txt" download>Download</a>
 
 ----
 
@@ -67,7 +67,7 @@
 	- *<ins>**Running** along the beach</ins>, she found a rare shell.*
 	- Please add more example sentences.
 	   
-- Text sample:
+- Text sample: <a href="Sample/feature3_raw.txt" download>Download</a>
 
 ----
 
@@ -86,7 +86,7 @@
 	- *The woman <ins>**standing** in the corner</ins> is my sister.*
 	- Please add more example sentences.
 
-- Text sample:
+- Text sample: <a href="Sample/feature4_raw.txt" download>Download</a>
 
 ----
 
@@ -105,7 +105,7 @@
 	- *He upset you very much, and I hate <ins>to **see** that</ins>.*
 	- Please add more example sentences.
 	
-- Text sample:
+- Text sample: <a href="Sample/feature5_raw.txt" download>Download</a>
 
 ----
 
@@ -124,5 +124,4 @@
 	- *They were excited <ins>to **explore** the new city</ins>, having heard so much about its vibrant culture.*
 	- Please add more example sentences.
 	
-- Text sample:
-
+- Text sample: <a href="Sample/feature6_raw.txt" download>Download</a>
