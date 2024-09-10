@@ -1,6 +1,6 @@
 ### Lexicogrammatical features annotation
 
-- Build annotation guidelines: [Shared GoogleDoc](https://docs.google.com/document/d/1i3sQpMe1UHvYuUMo1v4AHb9EvKvRWhXqGjWHFTl7Q7A/edit?usp=sharing)
+- Build annotation guidelines: <a href="https://docs.google.com/document/d/1i3sQpMe1UHvYuUMo1v4AHb9EvKvRWhXqGjWHFTl7Q7A/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Shared GoogleDoc</a>
 - Raw text files for annotation are located in the `Text sample` section of each feature.
 - Example sentences are source from Biber et al. (2007), *Longman Grammar of Spoken and Written English (6th ed.)*. 
 
