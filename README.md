@@ -18,7 +18,7 @@
 
 - Descriptions: **Group 1** works on this
 
-- Tag: `thatcls+vcomp` (indicating a ZERO complementizer) is applied to the **main verb** within the *that*-complement clause.
+- Tag: `thatcls+vcomp` (including a ZERO complementizer) is applied to the **main verb** within the *that*-complement clause.
 
 - Examples:
 	- *I didn't agree <ins>that he should be **compelled** to do singing.</ins>*
